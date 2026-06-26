@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Project logo" width="180">
+</p>
+
 # ColoCat - Roommate Management Platform
 
 ## Overview
